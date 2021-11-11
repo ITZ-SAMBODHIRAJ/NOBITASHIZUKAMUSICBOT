@@ -10,7 +10,7 @@
 ![logo](https://telegra.ph/file/ae9e73482aea46dcbb786.jpg)
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/INDIAN_NETWORK_OP)
 
-## Me On Telegram As [💥 NOBITA SHIZUKA 💥](https://t.me/INDIAN_NETWORK_OFFICIAL)
+## Me On Telegram As [💥 NOBITA SHIZUKA 💥]https://t.me/AAO_BAATE_KRE)
 
 ## COMMANDS
 ```
