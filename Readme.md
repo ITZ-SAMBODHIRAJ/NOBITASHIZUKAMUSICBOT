@@ -4,7 +4,7 @@
 </p>
 
 
-# Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
+# NOBITA SHIZUKA MUSIC BOT👮
 💡 This is NOBITA SHIZUKA An Advanced Telegram Music Bot For Best Experience  !! 🤖 
 
 ![logo](https://telegra.ph/file/ae9e73482aea46dcbb786.jpg)
