@@ -7,8 +7,8 @@
 # Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
 💡 This is Patricia An Advanced Telegram Music Bot For Best Experience  !! 🤖 
 
-![logo](https://telegra.ph/file/4d1c1151214987122659b.jpg)
-#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/patricia_support)
+![logo](https://telegra.ph/file/ae9e73482aea46dcbb786.jpg)
+#  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/INDIAN_NETWORK_OP)
 
 ## Me On Telegram As [💥 Pᴀᴛʀɪᴄɪᴀ 💥](https://t.me/PATRICIA_ROBOT)
 
