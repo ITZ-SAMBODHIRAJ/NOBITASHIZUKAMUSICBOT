@@ -5,14 +5,14 @@
 
 
 # Pᴀᴛʀɪᴄɪᴀ•Mᴜsɪᴄ👮
-💡 This is Patricia An Advanced Telegram Music Bot For Best Experience  !! 🤖 
+💡 This is NOBITA SHIZUKA An Advanced Telegram Music Bot For Best Experience  !! 🤖 
 
 ![logo](https://telegra.ph/file/ae9e73482aea46dcbb786.jpg)
 #  💡Dᴇᴠᴇʟᴏᴩᴇᴍᴇɴᴛ•Sᴜᴩᴩᴏʀᴛ👥[Here !](https://t.me/INDIAN_NETWORK_OP)
 
-## Me On Telegram As [💥 Pᴀᴛʀɪᴄɪᴀ 💥](https://t.me/PATRICIA_ROBOT)
+## Me On Telegram As [💥 NOBITA SHIZUKA 💥](https://t.me/INDIAN_NETWORK_OFFICIAL)
 
-## Cᴏᴍᴍᴀɴᴅs
+## COMMANDS
 ```
 ->Music•Player<-
 =>> *Song Playing* 🎧 
@@ -31,4 +31,8 @@
 The easiest way to deploy this Bot
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-PATRICIA/PatriciaMusic2.0/tree/main"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
  
+##[SPECIAL CREDITS]
+<a href="https://t.me/Owner_Of_E_LIBRARY"><img src="https://img.shields.io/badge/BOT-OWNER%20KING-green.svg?style=for-the-badge&logo=Telegram">
+
+<a href="https://t.me/ITZ_HEARTLESS_OWNER"><img src="https://img.shields.io/badge/DEVLOPER-OWNER%20KING-black.svg?style=for-the-badge&logo=Telegram">
 
